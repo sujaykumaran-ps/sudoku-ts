@@ -1,0 +1,7 @@
+{
+    "server": {
+      "baseDir": ["dist", "src"]
+    },
+    "files": ["src/**/*.*", "dist/**/*.*"]
+  }
+  
