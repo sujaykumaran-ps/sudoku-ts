@@ -1,4 +1,6 @@
-Instructions to run
+## Getting Started
 
-npm install 
-npm start
+1. **Clone or download** this repo  
+   
+   npm install
+   npm start
