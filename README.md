@@ -2,5 +2,5 @@
 
 1. **Clone or download** this repo  
    
-   npm install
+   npm install <br>
    npm start
